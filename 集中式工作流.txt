@@ -1,0 +1,2 @@
+先git提交到master(本地仓库)
+然后推送到中央仓库master
